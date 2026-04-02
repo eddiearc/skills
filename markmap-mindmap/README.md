@@ -15,7 +15,7 @@ Powered by [markmap](https://markmap.js.org/) with a built-in style playground f
 ## Install
 
 ```bash
-npx skills add https://github.com/eddiearc/side-ns-skill --skill markmap-mindmap
+npx skills add https://github.com/eddiearc/skills --skill markmap-mindmap
 ```
 
 Or manually symlink the skill directory to `.claude/skills/markmap-mindmap`.
