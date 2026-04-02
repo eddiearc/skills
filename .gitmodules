@@ -1,0 +1,6 @@
+[submodule "apifox-sync"]
+	path = apifox-sync
+	url = https://github.com/eddiearc/apifox-sync.git
+[submodule "yunxiao-dev-deploy"]
+	path = yunxiao-dev-deploy
+	url = https://github.com/eddiearc/yunxiao-dev-deploy.git
