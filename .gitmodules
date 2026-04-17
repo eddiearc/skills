@@ -4,3 +4,6 @@
 [submodule "yunxiao-dev-deploy"]
 	path = yunxiao-dev-deploy
 	url = https://github.com/eddiearc/yunxiao-dev-deploy.git
+[submodule "annotate-anything"]
+	path = annotate-anything
+	url = https://github.com/eddiearc/annotate-anything.git
